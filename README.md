@@ -1,4 +1,4 @@
-# Snappy - Chat Application not made by me.. Not even close! Its still me
+# Snappy - Chat Application not made by me.. Not even close! changes 
 Snappy is a chat application build with the power of MERN (MongoDB, Express, React, Node.js) Stack. 
 
 ![login page](./images/snappy_login.png)
